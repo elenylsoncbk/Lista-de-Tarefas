@@ -47,8 +47,6 @@ public class trabalho1 {
                     System.out.println("Indice Invalido!");
                     System.out.println("----------------\n");
                 }
-                entrada.nextLine();
-
 
             } else if (comand.equals("3")) {
                 int tamanhoI = lista.size();
